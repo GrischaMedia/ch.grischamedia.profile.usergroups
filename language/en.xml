@@ -7,5 +7,6 @@
 	<category name="wcf.user.profile">
 		<item name="wcf.user.profile.menu.usergroups"><![CDATA[User Groups]]></item>
 		<item name="wcf.user.profile.usergroups"><![CDATA[Member of User Groups]]></item>
+		<item name="wcf.user.profile.usergroups.copyright"><![CDATA[<a href="https://www.grischamedia.ch" rel="nofollow"{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}><strong>User Profile User Groups</strong>, developed by <strong>GrischaMedia.ch</strong></a>]]></item>
 	</category>
 </language>

@@ -10,7 +10,7 @@ use wcf\system\WCF;
  * 
  * @author		GrischaMedia.ch
  * @copyright	2019-2020 GrischaMedia.ch
- * @license		Creative Commons BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>
+ * @license		GrischaMedia.ch Commercial License <https://GrischaMedia.ch.de>
  * @package		ch.grischamedia.profile.usergroups
  */
 class UsergroupsUserProfileMenuContent extends SingletonFactory implements IUserProfileMenuContent {
