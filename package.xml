@@ -5,9 +5,9 @@
 		<packagedescription>Displays a user's user group memberships in the user profile.</packagedescription>
 		<packagename language="de">Benutzerprofil Benutzergruppen</packagename>
 		<packagedescription language="de">Stellt die Benutzergruppen-Mitgliedschaften eines Benutzers im Profil dar.</packagedescription>
-		<version>5.2.4</version>
-		<date>2020-06-22</date>
-		<license><![CDATA[GrischaMedia.ch Commercial Licence]]></license>
+		<version>5.3.0</version>
+		<date>2020-11-13</date>
+		<license><![CDATA[Creative Commons BY-SA <https://creativecommons.org/licenses/by-sa/4.0/>]]></license>
 	</packageinformation>
 	
 	<authorinformation>
@@ -20,7 +20,7 @@
 	</requiredpackages>
 	
 	<excludedpackages>
-		<excludedpackage version="5.3.0 Alpha 1">com.woltlab.wcf</excludedpackage>
+		<excludedpackage version="6.0.0 Alpha 1">com.woltlab.wcf</excludedpackage>
 	</excludedpackages>
 	
 	<instructions type="install">
@@ -45,7 +45,9 @@
 	
 	<instructions type="update" fromversion="5.2.3">
 		<instruction type="file">files.tar</instruction>
-		<instruction type="template">templates.tar</instruction>
-		<instruction type="language">language/*.xml</instruction>
+	</instructions>
+	
+	<instructions type="update" fromversion="5.2.4">
+		<instruction type="file">files.tar</instruction>
 	</instructions>
 </package>
