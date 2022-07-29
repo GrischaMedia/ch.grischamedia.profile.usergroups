@@ -9,8 +9,8 @@ use wcf\system\WCF;
  * Handles user profile user groups content.
  * 
  * @author		GrischaMedia.ch
- * @copyright	2019-2020 GrischaMedia.ch
- * @license		Creative Commons BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>
+ * @copyright	2019-2022 GrischaMedia.ch
+ * @license		GrischaMedia Kostenlose Produkte https://grischamedia.ch/lizenz/#Kostenlose%20Produkte
  * @package		ch.grischamedia.profile.usergroups
  */
 class UsergroupsUserProfileMenuContent extends SingletonFactory implements IUserProfileMenuContent {
