@@ -10,3 +10,8 @@ Mit diesem kleinen aber feinen Plugin lassen sich alle Benutzerguppen im Profil 
 Rechtevergabe
 
 ACP - Allgemeine Rechte - Benutzerprofile - Kann Benutzergruppen-Mitgliedschaften sehen
+
+# Shop GrischaMedia.ch - https://grischamedia.ch/shop/product/45-benutzergruppen-%C3%BCbersicht/
+# Woltlab Pluginstore - https://www.woltlab.com/pluginstore/file/3121-benutzergruppen-%C3%BCbersicht/
+
+Das BraningFree kann über den Shop von GrischaMedia bei der passenden Lizenz dazu erworben werden oder aber direkt im Woltlab Pluginstore.
